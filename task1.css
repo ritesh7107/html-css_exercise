@@ -1,0 +1,29 @@
+.container{
+    border: 4px solid black;
+    height: 400px;
+    width: 400px;
+}
+.top{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+
+}
+.middle{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 75px;
+    top: 75px;
+    z-index: 1;
+}
+.bottom{
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 150px;
+    top: 150px;
+}

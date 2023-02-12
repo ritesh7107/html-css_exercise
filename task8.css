@@ -1,0 +1,12 @@
+div{
+    text-align: center;
+    margin-left: 400px;
+    height: 700px;
+    width: 700px;
+}
+h1{
+    text-align: center;
+}
+img:hover{
+    transform: scale(1.5);
+}

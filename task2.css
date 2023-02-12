@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+}
+div{
+    text-align: center;
+    padding-top: 10px;
+}
+.top_banner{
+    background-color: rgb(61, 250, 153);
+    display: block;
+    height:150px;
+}
+.left_column{
+    background-color: blue;
+    display: inline-block;
+    width:30%;
+    height: 430px;
+}
+.content{
+    background-color: white;
+    display:inline-block;
+    width:69.5%;
+    height: 430px;
+
+}
+.bottom_banner{
+    background-color: rgb(61, 250, 153);
+    display:block;
+    height: 150px;  
+}

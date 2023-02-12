@@ -1,0 +1,49 @@
+
+.form{
+    height: 700px;
+    width: 550px;
+    margin-left: 550px;
+    margin-top: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:yellow;
+}
+.signup{
+    display: block;
+    background-color: orange;
+    color:white;
+    height: 40px;
+    top: 20px;
+    padding-left: 20px;
+
+}
+.detail{
+    display:block;
+    background-color: black;
+    margin-inline: auto;
+}
+.alignright{
+    text-align: right;
+}
+.alignleft{
+    text-align: left;
+}
+.submit{
+    display: block;
+    background-color: orange;
+    color:white;
+    height:40px;
+    padding-top: 5px;
+    padding-left: 250px;    
+}
+.Green{
+    background-color: green;
+    color:white;
+    border: 0;
+    font-size: large;
+}
+.cancel{
+    background-color: red;
+    color:white;
+    border: 0;
+    font-size: large;
+}

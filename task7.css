@@ -1,0 +1,10 @@
+div{
+    margin-inline: auto;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    padding-top: 100px;
+    color:yellow;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("images.jpg");
+}

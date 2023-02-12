@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    font-size: large;
+    box-shadow: 0 10px 20px 0 rgba(100,150,200,200);
+}
